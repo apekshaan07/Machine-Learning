@@ -1,0 +1,13 @@
+python3 util.py
+python3 learning_rate.py
+python3 perceptron.py.py
+python3 cal.py
+python3 lr.py
+python3 signum.py
+python3 SVM.py
+python3 SVM_tfidf.py
+python3 perceptron_2data.py
+python3 averageperceptron_project01.py
+python3 boosting_bow.py
+python3 boosting_tfidf.py
+python3 voting_classifier.py
